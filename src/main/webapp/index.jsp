@@ -1,6 +1,10 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-  <h3>Successfully Deployed mywebapp application on Tomcat using Jenkins - by Srini!!!!</h3>
+<h1>Hello World!</h1>
+  <h2>Successfully Deployed mywebapp application on Tomcat using Jenkins - by Srini!!!!</h2>
+  <div id="countdown"></div>
+    <script>
+      // This is where our sweet timer code will go!
+    </script>
 </body>
 </html>
